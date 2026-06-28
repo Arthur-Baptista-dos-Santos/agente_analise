@@ -131,15 +131,15 @@ agente_analise/
 
 ## `Demonstração`
 
-**Agente respondendo em linguagem natural** — pergunta "Monitore o pipeline de vendas e gere um relatório de saúde completo". O agente decide sozinho quais ferramentas chamar, analisa o DuckDB e sintetiza o resultado.
+**Agente respondendo em linguagem natural**: pergunta "Monitore o pipeline de vendas e gere um relatório de saúde completo". O agente decide sozinho quais ferramentas chamar, analisa o DuckDB e sintetiza o resultado.
 
-![Agente — Resumo do Pipeline](docs/screenshots/agente-resposta-1.png)
+![Agente, Resumo do Pipeline](docs/screenshots/agente-resposta-1.png)
 
 ---
 
-**Detecção de anomalias e conclusão** — o agente identificou 2 anomalias (Notebook Pro com receita e lucro fora do padrão) e reportou os 2 registros nulos removidos pelo ETL.
+**Detecção de anomalias e conclusão**: o agente identificou 2 anomalias (Notebook Pro com receita e lucro fora do padrão) e reportou os 2 registros nulos removidos pelo ETL.
 
-![Agente — Anomalias e Observações](docs/screenshots/agente-resposta-2.png)
+![Agente, Anomalias e Observações](docs/screenshots/agente-resposta-2.png)
 
 ---
 
@@ -152,7 +152,7 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 ## `Autor`
 
 **Arthur Baptista dos Santos**
-RM 565346 — Inteligência Artificial · FIAP 2025–2026
+RM 565346 · Inteligência Artificial · FIAP 2025-2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Baptista-0077B5?logo=linkedin)](https://linkedin.com/in/arthur-baptista-dos-santos)
 [![GitHub](https://img.shields.io/badge/GitHub-Arthur--Baptista--dos--Santos-181717?logo=github)](https://github.com/Arthur-Baptista-dos-Santos)
