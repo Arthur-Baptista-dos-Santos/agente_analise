@@ -129,6 +129,20 @@ agente_analise/
 
 ---
 
+## `Demonstração`
+
+**Agente respondendo em linguagem natural** — pergunta "Monitore o pipeline de vendas e gere um relatório de saúde completo". O agente decide sozinho quais ferramentas chamar, analisa o DuckDB e sintetiza o resultado.
+
+![Agente — Resumo do Pipeline](docs/screenshots/agente-resposta-1.png)
+
+---
+
+**Detecção de anomalias e conclusão** — o agente identificou 2 anomalias (Notebook Pro com receita e lucro fora do padrão) e reportou os 2 registros nulos removidos pelo ETL.
+
+![Agente — Anomalias e Observações](docs/screenshots/agente-resposta-2.png)
+
+---
+
 ## `Licença`
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
